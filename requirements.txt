@@ -1,5 +1,5 @@
 crewai==0.30.11
-crewai_tools==0.
-langchain_google_genai
-python-dotenv
-streamlit
+crewai-tools==0.2.6
+langchain-google-genai==1.0.3
+python-dotenv==1.0.1
+streamlit==1.34.0
