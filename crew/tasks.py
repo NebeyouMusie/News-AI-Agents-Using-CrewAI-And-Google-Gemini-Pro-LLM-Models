@@ -26,5 +26,5 @@ write_task = Task(
     tools=[tool],
     agent=news_writer,
     async_execution=False,
-    output_file='new-blog-post.md'
+    output_file='news.md'
 )

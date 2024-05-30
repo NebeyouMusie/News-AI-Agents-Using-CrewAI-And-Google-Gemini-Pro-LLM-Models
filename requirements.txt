@@ -1,5 +1,5 @@
-crewai
-crewai_tools
+crewai==0.30.11
+crewai_tools==0.
 langchain_google_genai
 python-dotenv
 streamlit
